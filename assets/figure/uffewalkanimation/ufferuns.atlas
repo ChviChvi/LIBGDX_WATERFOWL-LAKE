@@ -1,0 +1,27 @@
+
+ufferuns.png
+size: 128, 32
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+uffewalk1
+  rotate: false
+  xy: 2, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+uffewalk2
+  rotate: false
+  xy: 29, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+uffewalk3
+  rotate: false
+  xy: 56, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1

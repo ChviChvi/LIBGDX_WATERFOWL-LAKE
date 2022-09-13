@@ -1,0 +1,61 @@
+sprite-slime.png
+size: 256, 32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Sprite-Slime1
+  rotate: false
+  xy: 0, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprite-Slime2
+  rotate: false
+  xy: 32, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprite-Slime3
+  rotate: false
+  xy: 64, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprite-Slime4
+  rotate: false
+  xy: 96, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprite-Slime5
+  rotate: false
+  xy: 128, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprite-Slime6
+  rotate: false
+  xy: 160, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprite-Slime7
+  rotate: false
+  xy: 192, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Sprite-Slime8
+  rotate: false
+  xy: 224, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
